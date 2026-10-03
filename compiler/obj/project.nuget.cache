@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "QiS/LLe23kM=",
+  "success": true,
+  "projectFilePath": "/home/dengt1/dev/cbotagent/compiler/src.csproj",
+  "expectedPackageFiles": [
+    "/home/dengt1/.nuget/packages/ctrader.automate/1.0.21/ctrader.automate.1.0.21.nupkg.sha512",
+    "/home/dengt1/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/dengt1/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "/home/dengt1/dev/cbotagent/compiler/src.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/dengt1/dev/cbotagent/compiler/src.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
